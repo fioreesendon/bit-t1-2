@@ -1,6 +1,6 @@
 <br>
 <?php 
-	require_once('config.php');
+	require_once("config.php");
 
 	include("libreria/db_chat.php");
 	
